@@ -1,0 +1,11 @@
+{
+    "asset": "ae8ded9113f44e746943905bb1a9edbc",
+    "fileName": "01994d35-52fb-71c3-9ea8-87b0ace74518_Preview.png",
+    "prompt": "Generate a general bric material.",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 171862646,
+    "w3CTraceId": "8400147b7b57f79d7687804405b7204d",
+    "refinementMode": "Generation"
+}

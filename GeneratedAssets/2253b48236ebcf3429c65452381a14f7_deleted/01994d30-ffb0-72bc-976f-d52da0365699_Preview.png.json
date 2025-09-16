@@ -1,0 +1,11 @@
+{
+    "asset": "2253b48236ebcf3429c65452381a14f7",
+    "fileName": "01994d30-ffb0-72bc-976f-d52da0365699_Preview.png",
+    "prompt": "A simple level made of colorful cubes.",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1332875468,
+    "w3CTraceId": "55c90413e6656da0e0079ef4c80c64cb",
+    "refinementMode": "Generation"
+}
